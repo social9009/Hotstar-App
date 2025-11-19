@@ -24,7 +24,7 @@
             <li class="nav-items"><a href="#">TV</a></li>
             <li class="nav-items"><a href="#">Movies</a></li>
             <li class="nav-items"><a href="#">comedy</a></li>
-            <li class="nav-items"><a href="#">Premium</a></li>
+            <li class="nav-items"><a href="#">Actions</a></li>
             <li class="nav-items"><a href="#">Disney+</a></li>
             <li class="icon"><a href="#"></a></li>
         </ul>
